@@ -18,7 +18,7 @@ The following 5 operations are supported:
 - Integer division (/), the calculator uses floor division.
 - Modulo (%)
 
-# Input Restriction
+# Restrictions
 - The calculator only accepts whole numbers as input.
 - The calculator output whole numbers only.
 - Each operation takes 2 values. E.g. "1 2 +" is an valid input and " 1 2 3 +" is an invalid input.
