@@ -11,7 +11,7 @@ Clone the repository or download the calculator.py file and run in command promp
 and input an postfix expression to evaluate.
 
 # Supported Operations
-The following 5 operations are support:
+The following 5 operations are supported:
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
